@@ -8,7 +8,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=hesersu&show_icons=true&locale=en&theme=tokyonight" alt="Krist's GitHub stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hesersu]&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hesersu&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
   <tr>
