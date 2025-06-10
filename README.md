@@ -1,6 +1,6 @@
-## Hello World! 👋
+### Hello World! 👋
 
-#I'm Krists - a Product Manager, Full-stack Developer from Berlin, Germany! 🇩🇪
+## I'm Krists - a Product Manager, Full-stack Developer from Berlin, Germany! 🇩🇪
 
 <table width="100%">
   <tr>
