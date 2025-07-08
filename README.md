@@ -1,10 +1,10 @@
-### Hello World! 👋
+# Hello World! 👋
 
 ## I'm Krists - a Product Manager, Full-stack Developer from Berlin, Germany! 🇩🇪
 
 ## What am I working on? 🛠️
 
-# Menu, Please! Order like a local!
+### Menu, Please! Order like a local!
 
 Menu, please! is a AI-Powered application available on web as a PWA, iOS and Android. That uses Gemini 2.5 to interpret 🇯🇵 Japanese, 🇨🇳🇹🇼 Chinese, 🇰🇷 Korean & 🇹🇭 Thai menus. In the first two weeks, it achieve 500 active users and was a TOP 10 launch on Product Hunt.
 
