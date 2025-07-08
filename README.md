@@ -2,6 +2,8 @@
 
 ## I'm Krists - a Product Manager, Full-stack Developer from Berlin, Germany! 🇩🇪
 
+## Stats & Achievements
+
 <table width="100%">
   <tr>
     <td width=100%">
